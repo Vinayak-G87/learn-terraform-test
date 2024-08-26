@@ -1,0 +1,34 @@
+[
+  {
+    "USER_NAME": "appqap",
+    "SSH_HOST": "linuxtempvm1",
+    "SSH_KEY_FILE": "$SSH_KEY_FILE_ORA_1",
+    "DB": "Oracle",
+    "DEPLOY_ENV": "Dev",
+    "DEST_DIR": "/home"
+  },
+  {
+    "USER_NAME": "oracle",
+    "SSH_HOST": "linuxtempvm1",
+    "SSH_KEY_FILE": "$SSH_KEY_FILE_ORA_1",
+    "DB": "Oracle",
+    "DEPLOY_ENV": "Dev",
+    "DEST_DIR": "/home"
+  },
+  {
+    "USER_NAME": "appqap",
+    "SSH_HOST": "linuxtempvm2",
+    "SSH_KEY_FILE": "$SSH_KEY_FILE_ORA_2",
+    "DB": "Oracle",
+    "DEPLOY_ENV": "Dev",
+    "DEST_DIR": "/home"
+  },
+  {
+    "USER_NAME": "app_pt",
+    "SSH_HOST": "linuxtempvm2",
+    "SSH_KEY_FILE": "$SSH_KEY_FILE_ORA_2",
+    "DB": "Oracle",
+    "DEPLOY_ENV": "Dev",
+  }
+]
+

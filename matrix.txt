@@ -1,0 +1,7 @@
+Dev:Oracle:oracle:oraserver001:idrsaora001
+Dev:Oracle:appqap:oraserver001:idrsaora001
+Dev:Oracle:oracle:oraserver002:idrsaora002
+Dev:Oracle:are_pt:oraserver001:idrsaora001
+
+Dev:Sybase:sybase:sybserver001:idrsasyb001
+Dev:Sybase:are_pt:sybserver002:idrsasyb002
